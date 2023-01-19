@@ -6,4 +6,6 @@ This repository belongs to Dr. Ramjan Shaik!
 
 Watch tutorial on Youtube... 
 
-I modified this code at 20:27 
+I modified this code at 20:27
+
+I am slowly understanding the github ecosystem
